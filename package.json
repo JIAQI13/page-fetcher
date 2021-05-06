@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "a small command line node app called fetcher.js which should take a URL as a command-line argument as well as a local file path and download the resource to the specified path.",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIAQI13/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIAQI13/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/JIAQI13/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
